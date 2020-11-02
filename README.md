@@ -2,7 +2,7 @@
 - I am currently majoring in Computer Science in South Korea. 
 
 ### Interest ⚡ 
-- Machine Learning
+- Machine Learning (Sci-Kit Learn, Tensorflow, Keras)
 - Computer Vision (with OpenCV Python)
 - App Development
 - MFC Programming
