@@ -5,6 +5,7 @@
 - Machine Learning
 - Computer Vision (with OpenCV Python)
 - App Development
+- MFC Programming
 
 ---
 
