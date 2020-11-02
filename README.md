@@ -1,5 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starrykss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### About 💬
 - I am currently majoring in Computer Science in South Korea. 
 
@@ -8,6 +6,8 @@
 - Computer Vision (with OpenCV Python)
 - App Development
 - MFC Programming
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starrykss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
 
