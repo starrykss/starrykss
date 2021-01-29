@@ -1,5 +1,5 @@
 ### About 💬
-- A University Student majoring in Computer Science in South Korea.👨🏻‍🎓
+- A University Student majoring in Computer Science in South Korea. 👨🏻‍🎓
 
 ### Interest ⚡ 
 - Machine Learning (Sci-Kit Learn, Tensorflow/Keras)
