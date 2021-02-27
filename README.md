@@ -3,7 +3,6 @@
 
 ### Interest ⚡ 
 - Machine Learning (Sci-Kit Learn, Tensorflow/Keras)
-- Computer Vision (with OpenCV Python)
 - App/Program Development
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starrykss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
