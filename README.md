@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/R-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"> 
   <img src="https://img.shields.io/badge/common lisp-FF5A00?style=for-the-badge&logo=allegro&logoColor=white">
   <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> 
-  <img src="https://img.shields.io/badge/scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white"> 
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -34,6 +33,7 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=black">
   <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black">
+  <img src="https://img.shields.io/badge/scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white"> 
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/google cloud platform-4285F4?style=for-the-badge&logo=google&logoColor=white"> 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
