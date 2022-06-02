@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=black">
   <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black">
   <img src="https://img.shields.io/badge/scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white"> 
+  <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white">
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/google cloud platform-4285F4?style=for-the-badge&logo=google&logoColor=white"> 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
