@@ -7,7 +7,7 @@
 - App/Program Development
 
 ### Tech Stack 🚀
-*Some tech stacks that I've used at least once...*
+*Some tech stacks that I've experienced at least once...*
 
 <div align = left> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
