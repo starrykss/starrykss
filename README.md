@@ -10,7 +10,7 @@
 *Some tech stacks that I've experienced at least once...*
 
 <details>
-<summary><I>OPEN / CLOSE</I></summary>
+<summary><I>OPEN</I></summary>
 <div markdown="1"><br>
 
 > **Languages**
