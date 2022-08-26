@@ -59,7 +59,7 @@
 </div>
 <br>
 
-> **IDE**
+> **IDE & Dev Tools**
 
 <div>
   <img src="https://img.shields.io/badge/visual studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
@@ -100,6 +100,7 @@
 <div align = left>
   <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Mac OS-000000?style=for-the-badge&logo=apple&logoColor=white">
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 <br>
 
