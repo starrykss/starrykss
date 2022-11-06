@@ -1,10 +1,5 @@
 ### About 💬
-- A university student majoring in **Computer Science** in South Korea. 👨🏻‍🎓
-
-### Interest ⚡ 
-- Machine Learning (Sci-Kit Learn, Tensorflow/Keras)
-- Data Science
-- App/Program Development
+- Hello, World!
 
 ### Tech Stack 🚀
 *Some tech stacks that I've experienced at least once...*
