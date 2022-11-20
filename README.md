@@ -139,6 +139,7 @@
   
 </div>
 
+![starrykss's GitHub stats](https://github-readme-stats.vercel.app/api?username=starrykss&show_icons=true&theme=radical)
 
 <!--
 **starrykss/starrykss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
