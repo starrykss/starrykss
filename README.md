@@ -1,8 +1,8 @@
 ### About 💬
 - Hello, World!
 
-### Tech Stack 🚀
-*Some tech stacks that I've experienced at least once...*
+### Experiences 🚀
+*Some experiences that I've had at least once...*
 
 <details>
 <summary><I>OPEN</I></summary>
