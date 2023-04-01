@@ -127,9 +127,9 @@
 ### Information 🔍
 
 <table>
-  <tr style="display: flex;">
+  <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=starrykss&show_icons=true&theme=gruvbox" alt="starrykss's GitHub Stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starrykss&langs_count=3&layout=compact)" alt="starrykss's Top Langs" width="300"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starrykss&langs_count=3&layout=compact)" alt="starrykss's Top Langs"></td>
   </tr>
 </table>
 
