@@ -126,9 +126,12 @@
   
 ### Information 🔍
 
-![starrykss's GitHub stats](https://github-readme-stats.vercel.app/api?username=starrykss&show_icons=true&theme=gruvbox) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starrykss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr style="display: flex;">
+    <td><img src="https://github-readme-stats.vercel.app/api?username=starrykss&show_icons=true&theme=gruvbox" alt="starrykss's GitHub Stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starrykss&langs_count=3&layout=compact)" alt="starrykss's Top Langs" width="300"></td>
+  </tr>
+</table>
 
 <div align="right">
   
