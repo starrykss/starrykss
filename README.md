@@ -126,16 +126,22 @@
   
 ### Information 🔍
 
+<!---
+- Stats & Top Langs : https://github.com/anuraghazra/github-readme-stats
+- Hits : https://github.com/gjbae1212/hit-counter
+- GitHub Readme Stats Themes : https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+---->
+
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=starrykss&show_icons=true&theme=tokyonight" alt="starrykss's GitHub Stats"></td>
-    <td width="400"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starrykss&langs_count=8&layout=compact&theme=tokyonight&)" alt="starrykss's Top Langs"></td>
+    <td width="400"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starrykss&langs_count=8&layout=compact&theme=tokyonight&card_width=350&)" alt="starrykss's Top Langs"></td>
   </tr>
 </table>
 
 <div align="right">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstarrykss&count_bg=%23AED88D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstarrykss&count_bg=%2371798A&title_bg=%23638FDA&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
 
