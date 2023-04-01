@@ -128,8 +128,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=starrykss&show_icons=true&theme=gruvbox" alt="starrykss's GitHub Stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starrykss&langs_count=3&layout=compact)" alt="starrykss's Top Langs"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=starrykss&show_icons=true&theme=tokyonight" alt="starrykss's GitHub Stats"></td>
+    <td width="400"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starrykss&langs_count=8&layout=compact&theme=tokyonight&)" alt="starrykss's Top Langs"></td>
   </tr>
 </table>
 
