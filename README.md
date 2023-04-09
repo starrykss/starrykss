@@ -1,3 +1,5 @@
+![giphy](https://user-images.githubusercontent.com/22734777/230758783-6c6d6c32-e07e-44ce-a6c8-a6e51a562572.gif)
+
 ### About 💬
 - Hello, World!
 
