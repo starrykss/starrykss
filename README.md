@@ -1,3 +1,5 @@
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header)
+
 ![giphy](https://user-images.githubusercontent.com/22734777/230758783-6c6d6c32-e07e-44ce-a6c8-a6e51a562572.gif)
 
 ### About 💬
@@ -146,6 +148,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstarrykss&count_bg=%2371798A&title_bg=%23638FDA&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 <!--
 **starrykss/starrykss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
