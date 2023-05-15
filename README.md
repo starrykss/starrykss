@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Sangsoon_Kim&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sangsoon Kim&fontSize=90&animation=twinkling&fontAlignY=38&desc=Developer👨🏻‍💻&descAlignY=51&descAlign=62)
 
 ![giphy](https://user-images.githubusercontent.com/22734777/230758783-6c6d6c32-e07e-44ce-a6c8-a6e51a562572.gif)
 
