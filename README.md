@@ -145,8 +145,8 @@
 
 <div align="right">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstarrykss&count_bg=%2371798A&title_bg=%23638FDA&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstarrykss&count_bg=auto&title_bg=%23638FDA&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=falsee)](https://hits.seeyoufarm.com)
+
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
