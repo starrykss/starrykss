@@ -167,7 +167,15 @@
   </tr>
 </table>
 
+<style>
+  table {
+    border-collapse: collapse !important;
+  }
 
+  td, th {
+    border: none !important;
+  }
+</style>
 
 <div align="right">
   
