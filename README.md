@@ -58,7 +58,16 @@
   <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black">
 </div>
 <br>
+  
+> **Artificial Intelligence**
 
+<div align = left> 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Allegro-FF5A00?style=for-the-badge&logo=allegro&logoColor=white">
+</div>
+<br>
+  
 > **IDE & Dev Tools**
 
 <div>
@@ -77,7 +86,7 @@
 </div>
 <br>
 
-> **Version Control**
+> **Version Control System**
 
 <div align = left>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -85,23 +94,33 @@
 </div>
 <br>
 
-> **OA**
+> **Office Automation**
 
 <div align = left>
   <img src="https://img.shields.io/badge/word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white">
   <img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
   <img src="https://img.shields.io/badge/access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white">
   <img src="https://img.shields.io/badge/powerpoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white">
+  <img src="https://img.shields.io/badge/onenote-7719AA?style=for-the-badge&logo=microsoftonenote&logoColor=white">
   <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 </div>
 <br>
 
-> **OS**
+> **Operating System**
 
 <div align = left>
   <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Mac OS-000000?style=for-the-badge&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</div>
+<br>
+  
+> **Collaboration Tools**
+
+<div align = left>
+  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/microsoft teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
 </div>
 <br>
 
@@ -117,8 +136,6 @@
 
   <img src="https://img.shields.io/badge/power shell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
   <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div>
 <br>
 
