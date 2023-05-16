@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sangsoon Kim&fontSize=90&animation=twinkling&fontAlignY=38&desc=Developer👨🏻‍💻&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello World!👋🏻&fontSize=90&animation=twinkling&fontAlignY=38&desc=I'm Developer Sangsoon Kim.👨🏻‍💻&descAlignY=51&descAlign=62)
 
 ![giphy](https://user-images.githubusercontent.com/22734777/230758783-6c6d6c32-e07e-44ce-a6c8-a6e51a562572.gif)
 
@@ -141,15 +141,19 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=starrykss&show_icons=true&theme=tokyonight" alt="starrykss's GitHub Stats"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starrykss&langs_count=8&layout=compact&theme=tokyonight&card_width=350&)" alt="starrykss's Top Langs" height="195"></td>
   </tr>
+  <tr>
+    <td></td>
+    <td><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=starrykss" href="https://solved.ac/starrykss" alt="solved.ac tier" width="350"></td>
+  </tr>
 </table>
+
+
 
 <div align="right">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstarrykss&count_bg=auto&title_bg=%23638FDA&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=falsee)](https://hits.seeyoufarm.com)
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=%2371798A&height=200&section=footer)
 
 <!--
 **starrykss/starrykss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
