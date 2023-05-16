@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello World!👋🏻&fontSize=80&animation=twinkling&fontAlignY=38&desc=I'm Developer Sangsoon Kim.👨🏻‍💻&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello World!👋🏻&fontSize=80&animation=twinkling&fontAlignY=38&desc=I'm Developer Sangsoon Kim.👨🏻‍💻&descSize=20&descAlignY=51&descAlign=62)
 
 ![giphy](https://user-images.githubusercontent.com/22734777/230758783-6c6d6c32-e07e-44ce-a6c8-a6e51a562572.gif)
 
