@@ -83,7 +83,7 @@
   <img src="https://img.shields.io/badge/atom-66595C?style=for-the-badge&logo=atom&logoColor=white">
   <img src="https://img.shields.io/badge/sublime text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white">
   <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/google colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
+  <img src="https://img.shields.io/badge/colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
 </div>
 <br>
 
@@ -128,9 +128,9 @@
 > **ETC.**
 
 <div align = left>
-  <img src="https://img.shields.io/badge/scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white"> 
-  <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white">
+  <img src="https://img.shields.io/badge/scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white">
   <img src="https://img.shields.io/badge/processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white"> 
+  <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white">
 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
   <img src="https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white">
