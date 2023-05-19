@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/amazo naws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/google cloud platform-4285F4?style=for-the-badge&logo=google&logoColor=white"> 
   <img src="https://img.shields.io/badge/microsoft azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"> 
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> 
 </div>
 <br>
 
