@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello World!👋🏻&fontSize=80&animation=twinkling&fontAlignY=38&desc=I'm Developer Sangsoon Kim.👨🏻‍💻&descSize=20&descAlignY=51&descAlign=62)
 
-<!-- ![giphy](https://user-images.githubusercontent.com/22734777/230758783-6c6d6c32-e07e-44ce-a6c8-a6e51a562572.gif) -->
 ### About 💬
 - Hello, Nice to meet you.
 
@@ -162,7 +161,7 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starrykss&langs_count=8&layout=compact&theme=tokyonight&card_width=350&)" alt="starrykss's Top Langs" height="195"></td>
   </tr>
   <tr>
-    <td></td>
+    <td><img src="https://user-images.githubusercontent.com/22734777/230758783-6c6d6c32-e07e-44ce-a6c8-a6e51a562572.gif" width="250" align="right"></td>
     <td><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=starrykss" href="https://solved.ac/starrykss" alt="solved.ac tier" width="350"></td>
   </tr>
 </table>
