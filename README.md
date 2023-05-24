@@ -157,12 +157,44 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=starrykss&show_icons=true&theme=tokyonight" alt="starrykss's GitHub Stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starrykss&langs_count=8&layout=compact&theme=tokyonight&card_width=350&)" alt="starrykss's Top Langs" height="195"></td>
+    <td>
+      <!-- <img src="https://github-readme-stats.vercel.app/api?username=starrykss&show_icons=true&theme=tokyonight" alt="starrykss's GitHub Stats"> -->
+      <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=starrykss&show_icons=true&theme=tokyonight">
+          <img alt="starrykss's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=starrykss&show_icons=true&theme=buefy">
+        </picture>
+      </a>
+    </td>
+    <td>
+      <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starrykss&langs_count=8&layout=compact&theme=tokyonight&card_width=350&)" alt="starrykss's Top Langs" height="195"> -->
+      <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=starrykss&langs_count=8&layout=compact&theme=tokyonight&card_width=350&">
+          <img alt="starrykss's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starrykss&langs_count=8&layout=compact&theme=buefy&card_width=350&">
+        </picture>
+      </a>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=starrykss&theme=tokyonight" alt="GitHub Streak"></td>
-    <td><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=starrykss" href="https://solved.ac/starrykss" alt="solved.ac tier"></td>
+    <td>
+      <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=starrykss&theme=tokyonight" alt="GitHub Streak"> -->
+      <a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=starrykss&theme=tokyonight&card_width=470">
+          <img alt="starrykss's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=starrykss&theme=buefy&card_width=470">
+        </picture>
+      </a>
+    </td>
+    <td>
+      <!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=starrykss" href="https://solved.ac/starrykss" alt="solved.ac tier"> -->
+      <a href="https://solved.ac/starrykss">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="http://mazassumnida.wtf/api/v2/generate_badge?boj=starrykss">
+          <img alt="solved.ac tier" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=starrykss">
+        </picture>
+      </a>
+    </td>
   </tr>
 </table>
 
