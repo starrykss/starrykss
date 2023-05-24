@@ -161,8 +161,8 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starrykss&langs_count=8&layout=compact&theme=tokyonight&card_width=350&)" alt="starrykss's Top Langs" height="195"></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/22734777/230758783-6c6d6c32-e07e-44ce-a6c8-a6e51a562572.gif" width="250" align="right"></td>
-    <td><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=starrykss" href="https://solved.ac/starrykss" alt="solved.ac tier" width="350"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=starrykss&theme=tokyonight" alt="GitHub Streak"></td>
+    <td><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=starrykss" href="https://solved.ac/starrykss" alt="solved.ac tier"></td>
   </tr>
 </table>
 
@@ -182,9 +182,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+<!--
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 -->
 
-
+<!-- Image
+<img src="https://user-images.githubusercontent.com/22734777/230758783-6c6d6c32-e07e-44ce-a6c8-a6e51a562572.gif" width="250" align="right">
+-->
