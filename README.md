@@ -162,7 +162,7 @@
       <a>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=starrykss&show_icons=true&theme=tokyonight">
-          <img alt="starrykss's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=starrykss&show_icons=true&theme=buefy">
+          <img alt="starrykss's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=starrykss&show_icons=true&theme=default">
         </picture>
       </a>
     </td>
@@ -171,7 +171,7 @@
       <a>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=starrykss&langs_count=8&layout=compact&theme=tokyonight&card_width=350&">
-          <img alt="starrykss's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starrykss&langs_count=8&layout=compact&theme=buefy&card_width=350&">
+          <img alt="starrykss's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starrykss&langs_count=8&layout=compact&theme=default&card_width=350&">
         </picture>
       </a>
     </td>
@@ -182,7 +182,7 @@
       <a>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=starrykss&theme=tokyonight&card_width=470">
-          <img alt="starrykss's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=starrykss&theme=buefy&card_width=470">
+          <img alt="starrykss's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=starrykss&theme=default&card_width=470">
         </picture>
       </a>
     </td>
