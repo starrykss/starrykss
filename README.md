@@ -3,7 +3,7 @@
 ### About 💬
 - Hello! Nice to meet you. I'm Sangsoon Kim. 👋🏻
 - Currently, I'm majoring in **Computer Science** and **Media Engineering** at a university in South Korea. 👨🏻‍🎓🇰🇷
-- On weekdays, I attend the **Microsoft AI school**. ☀️
+- On weekdays, I attend **Microsoft AI school**. ☀️
 
 ### Experiences 🚀
 *Some experiences that I've had at least once...*
