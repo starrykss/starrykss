@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello World!👋🏻&fontSize=80&animation=twinkling&fontAlignY=38&desc=I'm Sangsoon Kim.👨🏻‍💻&descSize=20&descAlignY=51&descAlign=62)
 
 ### About 💬
-- Hello, Nice to meet you.
+- Hello! Nice to meet you. I'm Sangsoon Kim. 👋🏻
+- Currently, I'm majoring in **Computer Science** and **Media Engineering** at a university in South Korea. 👨🏻‍🎓
+- I am joining and taking courses from **Microsoft AI School** on weekdays. ☀️
 
 ### Experiences 🚀
 *Some experiences that I've had at least once...*
