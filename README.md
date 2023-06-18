@@ -212,6 +212,8 @@
 
 </div>
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
 <!--
 **starrykss/starrykss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -229,5 +231,5 @@ Here are some ideas to get you started:
 -->
 
 <!-- Image
-<img src="https://user-images.githubusercontent.com/22734777/230758783-6c6d6c32-e07e-44ce-a6c8-a6e51a562572.gif" width="250" align="right">
+<img src="https://user-images.githubusercontent.com/22734777/230758783-6c6d6c32-e07e-44ce-a6c8-a6e51a562572.gif" width="200" align="right">
 -->
