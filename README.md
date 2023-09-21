@@ -3,7 +3,11 @@
 ### About 💬
 - Hello! Nice to meet you. I'm Sangsoon Kim. 👋🏻
 - I majored in **Computer Science** and **Media Engineering** at a university in South Korea. 👨🏻‍🎓🇰🇷
-- On weekdays, I attend **Microsoft AI school**. ☀️
+
+### Activities 👨🏻‍💻
+- ✅ **[Microsoft AI School (2nd)](https://msaischool.kr/)**
+  - 2023.04.03 - 2023.09.19 (169 Days)
+  - Microsoft Korea
 
 ### Experiences 🚀
 *Some experiences that I've had at least once...*
