@@ -8,7 +8,7 @@
 - **[Microsoft AI School (2nd)](https://msaischool.kr/)**
   - *2023.04.03 - 2023.09.19 (169 Days)*
   - *Microsoft Korea*
-  - *[Repository](https://github.com/starrykss/TeamProjects/tree/main/Microsoft%20AI%20School%20(2nd))* 📎
+  - *[📎 Repository](https://github.com/starrykss/TeamProjects/tree/main/Microsoft%20AI%20School%20(2nd))*
 
 ### Experiences 🚀
 *Some experiences that I've had at least once...*
