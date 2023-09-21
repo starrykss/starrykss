@@ -5,7 +5,7 @@
 - I majored in **Computer Science** and **Media Engineering** at a university in South Korea. 👨🏻‍🎓🇰🇷
 
 ### Activities 👨🏻‍💻
-- ✅ **[Microsoft AI School (2nd)](https://msaischool.kr/)**
+- **[Microsoft AI School (2nd)](https://msaischool.kr/)**
   - 2023.04.03 - 2023.09.19 (169 Days)
   - Microsoft Korea
 
