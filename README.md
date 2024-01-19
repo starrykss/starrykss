@@ -1,21 +1,16 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello World!👋🏻&fontSize=80&animation=twinkling&fontAlignY=38&desc=I'm Sunny Kim👨🏻‍💻&descSize=20&descAlignY=51&descAlign=62)
 
 ### About 💬
-- Hello! Nice to meet you. I'm Sunny Kim. 👋🏻
-- I majored in **Computer Science** and **Media Engineering** at a university in South Korea. 👨🏻‍🎓🇰🇷
-
-### Activities 👨🏻‍💻
-- **[Microsoft AI School (2nd)](https://msaischool.kr/)**
-  - *2023.04.03 - 2023.09.19 (169 Days)*
-  - *Microsoft Korea*
-  - *[🖇️Study](https://github.com/starrykss/BootCamp_MSAISchool2nd)*, *[🖇️Project](https://github.com/starrykss/TeamProjects/tree/main/Microsoft%20AI%20School%20(2nd))*
+Hey there! I'm Sunny Kim. 👋🏻
 
 ### Experiences 🚀
 *Some experiences that I've had at least once...*
 
 <details>
 <summary><I>OPEN</I></summary>
-<div markdown="1"><br>
+<div markdown="1" align="left"><br>
 
 > **Languages**
 
@@ -219,6 +214,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
+</div>
 <!--
 **starrykss/starrykss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
