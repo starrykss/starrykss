@@ -25,11 +25,8 @@ Hey there! I'm a Front-End Developer, Sunny Kim. 👋🏻
   <img src="https://img.shields.io/badge/common lisp-FF5A00?style=for-the-badge&logo=allegro&logoColor=white">
   <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/jsp-FF7800?style=for-the-badge&logo=coffeescript&logoColor=white"> 
-  <img src="https://img.shields.io/badge/json-003399?style=for-the-badge&logo=json&logoColor=white"> 
 </div>
 <br>
 
@@ -37,20 +34,21 @@ Hey there! I'm a Front-End Developer, Sunny Kim. 👋🏻
 
 <div align = left>
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> 
 </div>
 <br>
 
 > **Cloud**
 
-<div align = left> 
+<div align = left>
+  <img src="https://img.shields.io/badge/microsoft azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"> 
   <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/google cloud platform-4285F4?style=for-the-badge&logo=google&logoColor=white"> 
-  <img src="https://img.shields.io/badge/microsoft azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"> 
 </div>
 <br>
 
-> **Linux/UNIX**
+> **Linux**
 
 <div align = left> 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -65,13 +63,19 @@ Hey there! I'm a Front-End Developer, Sunny Kim. 👋🏻
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/Allegro-FF5A00?style=for-the-badge&logo=allegro&logoColor=white">
+  <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
 </div>
 <br>
   
 > **Libraries / Frameworks**
   
   <div align = left>
-    <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> 
+    <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+    <img src="https://img.shields.io/badge/qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
+    <img src="https://img.shields.io/badge/pyqt-3776AB?style=for-the-badge&logo=qt&logoColor=white">
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   </div>
   <br>
   
@@ -86,7 +90,6 @@ Hey there! I'm a Front-End Developer, Sunny Kim. 👋🏻
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
 
   <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/atom-66595C?style=for-the-badge&logo=atom&logoColor=white">
   <img src="https://img.shields.io/badge/sublime text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white">
   <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
