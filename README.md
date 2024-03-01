@@ -104,6 +104,7 @@ Hey there!👋🏻 <br/>I'm a Front-End Developer in South Korea. 🇰🇷
 <div align = left>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/aws codecommit-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
 <br>
 
@@ -134,6 +135,7 @@ Hey there!👋🏻 <br/>I'm a Front-End Developer in South Korea. 🇰🇷
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/microsoft teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
+  <img src="https://img.shields.io/badge/zeplin-F26207?style=for-the-badge&logo=azurepipelines&logoColor=white">
 </div>
 <br>
 
