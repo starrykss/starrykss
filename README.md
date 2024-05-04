@@ -15,7 +15,7 @@ Hey there!👋🏻 <br/>I'm a Front-End Developer in South Korea. 🇰🇷
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <br/>
   <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/sass/scss-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
   <img src="https://img.shields.io/badge/styled－components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
   <br/>
@@ -101,7 +101,7 @@ Hey there!👋🏻 <br/>I'm a Front-End Developer in South Korea. 🇰🇷
     <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
     <img src="https://img.shields.io/badge/pyqt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
-    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/styled－components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
