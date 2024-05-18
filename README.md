@@ -14,8 +14,9 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make a progra
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <br/>
-  <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
+  <br/>
   <img src="https://img.shields.io/badge/sass/scss-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
   <img src="https://img.shields.io/badge/styled－components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
