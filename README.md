@@ -18,6 +18,7 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make a progra
   <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/sass/scss-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
   <img src="https://img.shields.io/badge/styled－components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
+  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -104,6 +105,7 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make a progra
     <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/styled－components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
+    <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   </div>
   <br>
