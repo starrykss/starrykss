@@ -45,7 +45,7 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make a progra
           🔴🟡🟢 
           &nbsp;&nbsp;
           <b>🏢 Work Experiences</b>
-          <img width="721" height="1" />  <!-- Full Width -->
+          <img width="728" height="1" />  <!-- Full Width -->
         </span>
       </div>
     </td>
