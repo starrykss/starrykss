@@ -45,19 +45,19 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make a progra
           🔴🟡🟢 
           &nbsp;&nbsp;
           <b>🏢 Work Experiences</b>
-          <img width="728" height="1" />  <!-- Full Width -->
+          <img width="721" height="1" />  <!-- Full Width -->
         </span>
       </div>
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <div>
+      <div align="center">
       <details>
         <summary><I>OPEN</I></summary>
         <div markdown="1" align="left"><br>
-          ✅ <b>Microsoft AI School Trainee (2nd)</b> (@Microsoft_Korea) : 2023.04 ~ 2023.09 <br/> 
-          ✅ <b>Front-end SW Engineer Inernship</b> (@Torooc) : 2024.02 ~ 2024.04
+          ✅ <b>🏫 Microsoft AI School Trainee (2nd)</b> (@Microsoft_Korea) : 2023.04 ~ 2023.09 <br/> 
+          ✅ <b>🏢 Front-end SW Engineer Inernship</b> (@Torooc) : 2024.02 ~ 2024.04
         </div>
       </details>
     </td>
@@ -71,7 +71,7 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make a progra
           🔴🟡🟢 
           &nbsp;&nbsp;
           <b>🛠️ Stacks</b>
-          <img width="815" height="1" />  <!-- Full Width -->
+          <img width="823" height="1" />  <!-- Full Width -->
         </span>
       </div>
     </td>
@@ -80,7 +80,7 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make a progra
     <td colspan="2">
 <div align="center">
 
-*Some experiences that I've had at least once...*
+*Some stacks that I've had at least once...*
 
 <details>
   <summary><I>OPEN</I></summary>
