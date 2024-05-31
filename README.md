@@ -71,7 +71,7 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make a progra
           🔴🟡🟢 
           &nbsp;&nbsp;
           <b>🛠️ Stacks</b>
-          <img width="823" height="1" />  <!-- Full Width -->
+          <img width="815" height="1" />  <!-- Full Width -->
         </span>
       </div>
     </td>
