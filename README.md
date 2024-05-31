@@ -5,6 +5,8 @@
 ### 💬 About 
 Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make a program for **a better world**! <br/> 📍 South Korea 🇰🇷
 
+<br/>
+
 ### 🛠️ Main Stacks
 <div>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -31,7 +33,8 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make a progra
   
   
 </div>
-  
+
+<br/>
 
 ### 🚀 Experiences 
 
@@ -42,7 +45,7 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make a progra
           🔴🟡🟢 
           &nbsp;&nbsp;
           <b>🏢 Work Experiences</b>
-          <img width="600" height="1" />  <!-- Full Width -->
+          <img width="740" height="1" />  <!-- Full Width -->
         </span>
       </div>
     </td>
@@ -68,7 +71,7 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make a progra
           🔴🟡🟢 
           &nbsp;&nbsp;
           <b>🛠️ Stacks</b>
-          <img width="600" height="1" />  <!-- Full Width -->
+          <img width="824" height="1" />  <!-- Full Width -->
         </span>
       </div>
     </td>
@@ -236,8 +239,8 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make a progra
   </tr>
 </table>
 
+<br/>
 
-  
 ### 🔍 Information 
 
 <!---
