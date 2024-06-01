@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello World!👋🏻&fontSize=80&animation=twinkling&fontAlignY=38&desc=I'm 👨🏻‍💻 SUNNY&descSize=20&descAlignY=51&descAlign=62)
 
 ### 💬 About 
-Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make a program for **a better world**! <br/><br/> 📍 South Korea 🇰🇷
+Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applications for **a better world**! <br/><br/> 📍 South Korea 🇰🇷
 
 <br/>
 
