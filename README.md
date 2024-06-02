@@ -52,6 +52,7 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applicat
   <tr>
     <td colspan="2">
       <div align="center">
+      <br/>
       <details>
         <summary><I>OPEN</I></summary>
         <div markdown="1" align="left"><br>
@@ -78,6 +79,7 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applicat
   <tr>
     <td colspan="2">
 <div align="center">
+<br/>
 
 *Some stacks that I've had at least once...*
 
