@@ -4,7 +4,7 @@
 
 ### 💬 About 
 Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applications for **a better world**! <br/><br/> 📍 South Korea 🇰🇷
-<br/>
+<br/><br/>
 
 ### 🛠️ Main Stacks
 <div>
