@@ -26,7 +26,7 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applicat
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/microsoft azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"> 
-  <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazon&logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   
@@ -96,7 +96,7 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applicat
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=coffeescript&logoColor=white"> 
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
     <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
-    <img src="https://img.shields.io/badge/R-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"> 
+    <img src="https://img.shields.io/badge/R-75AADB?style=for-the-badge&logo=r&logoColor=white"> 
     <img src="https://img.shields.io/badge/common lisp-FF5A00?style=for-the-badge&logo=allegro&logoColor=white">
     <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> 
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -120,7 +120,7 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applicat
   
   <div align = left>
     <img src="https://img.shields.io/badge/microsoft azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"> 
-    <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazon&logoColor=white">
     <img src="https://img.shields.io/badge/google cloud platform-4285F4?style=for-the-badge&logo=google&logoColor=white"> 
   </div>
   <br>
