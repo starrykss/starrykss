@@ -81,7 +81,7 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applicat
 <div align="center">
 <br/>
 
-*Some stacks that I've had at least once...*
+*Some stacks that I've experienced at least once...*
 
 <details>
   <summary><I>OPEN</I></summary>
