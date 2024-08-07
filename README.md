@@ -16,6 +16,7 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applicat
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <br/>
   <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/sass/scss-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
@@ -154,6 +155,7 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applicat
     <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
     <img src="https://img.shields.io/badge/mobx-DB5913?style=for-the-badge&logo=mobx&logoColor=white">
     <img src="https://img.shields.io/badge/react－query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/styled－components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
     <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
