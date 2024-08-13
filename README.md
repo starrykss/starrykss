@@ -25,6 +25,7 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applicat
   <br/>
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/mongodb-589636?style=for-the-badge&logo=mongodb&logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/microsoft azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"> 
   <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazon&logoColor=white">
@@ -114,6 +115,7 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applicat
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> 
+    <img src="https://img.shields.io/badge/mongodb-589636?style=for-the-badge&logo=mongodb&logoColor=white">
   </div>
   <br>
   
