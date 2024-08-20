@@ -27,7 +27,7 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applicat
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/mongodb-589636?style=for-the-badge&logo=mongodb&logoColor=white">
   <br/>
-  <img src="https://img.shields.io/badge/microsoft azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"> 
+  <img src="https://img.shields.io/badge/microsoft azure-0078D4?style=for-the-badge&logo=azure&logoColor=white"> 
   <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazon&logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -104,6 +104,7 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applicat
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=black">
     <img src="https://img.shields.io/badge/sass/scss-CC6699?style=for-the-badge&logo=sass&logoColor=white">
     
   </div>
