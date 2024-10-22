@@ -8,6 +8,8 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applicat
 
 ### 🛠️ Main Stacks
 <div>
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <br/>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/pyqt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
   <br/>
