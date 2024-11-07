@@ -234,6 +234,9 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applicat
     <img src="https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white">
     <img src="https://img.shields.io/badge/power shell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
     <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
+    <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+    <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white">
+    <img src="https://img.shields.io/badge/render-000000?style=for-the-badge&logo=render&logoColor=white">
   </div>
   <br>
   
