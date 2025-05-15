@@ -60,8 +60,8 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applicat
         <summary><I>OPEN</I></summary>
         <div markdown="1" align="left"><br>
           ✅ <b>🏫 Microsoft AI School Trainee (2nd)</b> (@Microsoft_Korea) : 2023.04 ~ 2023.09 <br/> 
-          ✅ <b>🏢 Front-end SW Engineer Internship</b> (@Torooc) : 2024.02 ~ 2024.04
-          ✅ <b>🏢 Full-stack SW Engineer</b> (@PLBZ_Inc.) : 2023.04 ~ 2023.09 <br/> 
+          ✅ <b>🏢 Front-end SW Engineer Internship</b> (@Torooc) : 2024.02 ~ 2024.04 <br/> 
+          ✅ <b>🏢 Full-stack SW Engineer</b> (@PLBZ_Inc.) : 2025.02 ~ current <br/> 
         </div>
       </details>
     </td>
