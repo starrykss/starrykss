@@ -308,7 +308,7 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applicat
 
 <div align="right">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstarrykss&count_bg=auto&title_bg=%23638FDA&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=falsee)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstarrykss&count_bg=auto&title_bg=%23638FDA&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
