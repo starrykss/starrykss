@@ -13,7 +13,7 @@
 
 <br/>
 
->
+> [!NOTE]
 > I'm a software engineer interested in building applications that solve real-world problems.
 >
 > My main focus is on full-stack web development, while also working with AI, mobile applications, cloud infrastructure, and backend systems.
