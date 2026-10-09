@@ -4,10 +4,11 @@
 
 
 ### 💬 About 
-<div> 
-  Hey there!👋🏻 <br/>
-  I'm a software engineer who likes to make applications for <b>a better world</b>! :p <br/>
-  📍 South Korea 🇰🇷
+<div align="center"> 
+  Hey there! 👋🏻 <br/> 
+  I'm a software engineer passionate about building applications that make the world a better place. 🌍 <br/> 
+  I'm always eager to learn new technologies and deepen my knowledge of computer science and software engineering. 💻 <br/><br/>  
+  📍 South Korea 🇰🇷 
 </div>
 
 <br/>
