@@ -6,9 +6,9 @@
 ### 💬 About 
 <div align="center"> 
   Hey there! 👋🏻 <br/> 
-  I'm a software engineer passionate about building applications that make the world a better place. 🌍 <br/> 
-  I'm always eager to learn new technologies and deepen my knowledge of computer science and software engineering. 💻 <br/><br/>  
-  📍 South Korea 🇰🇷 
+  I'm <b>a software engineer</b> passionate about building applications that make the world a better place. 🌍 <br/> 
+  I'm always eager to learn new technologies and deepen my knowledge of <b>computer science and software engineering</b>. 💻 <br/><br/>  
+  📍 Based in South Korea 🇰🇷 | Occasionally in Switzerland 🇨🇭
 </div>
 
 <br/>
