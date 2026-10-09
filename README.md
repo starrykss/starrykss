@@ -8,7 +8,7 @@
   Hey there! 👋🏻 <br/> 
   I'm <b>a software engineer</b> passionate about building applications that make the world a better place. 🌍 <br/> 
   I'm always eager to learn new technologies and deepen my knowledge of <b>computer science and software engineering</b>. 💻 <br/><br/>  
-  📍 Based in South Korea 🇰🇷, sometimes in Switzerland 🇨🇭
+  📍 <br/> Based in <b>South Korea</b> 🇰🇷<br/> Sometimes in <b>Switzerland</b> 🇨🇭
 </div>
 
 <br/>
