@@ -47,8 +47,8 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applicat
         <span>
           🔴🟡🟢 
           &nbsp;&nbsp;
-          <b>🏢 Work Experiences</b>
-          <img width="721" height="1" />  <!-- Full Width -->
+          <b>🎓 Educations</b>
+          <img width="1200" height="1" />  <!-- Full Width -->
         </span>
       </div>
     </td>
@@ -60,7 +60,33 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applicat
       <details>
         <summary><I>OPEN</I></summary>
         <div markdown="1" align="left"><br>
+          ✅ <b>🏫 B.S. in Computer Science & Information Engineering : 2016.03 ~ 2023.08 <br/> 
           ✅ <b>🏫 Microsoft AI School Trainee (2nd)</b> (@Microsoft_Korea) : 2023.04 ~ 2023.09 <br/> 
+        </div>
+      </details>
+    </td>
+  </tr>
+</table>
+
+<table>
+    <td style="border-right: none;">
+      <div>
+        <span>
+          🔴🟡🟢 
+          &nbsp;&nbsp;
+          <b>🏢 Work</b>
+          <img width="1200" height="1" />  <!-- Full Width -->
+        </span>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <div align="center">
+      <br/>
+      <details>
+        <summary><I>OPEN</I></summary>
+        <div markdown="1" align="left"><br>
           ✅ <b>🏢 Front-end SW Engineer Internship</b> (@Torooc) : 2024.02 ~ 2024.04 <br/> 
           ✅ <b>🏢 Full-stack SW Engineer</b> (@PLBZ_Inc.) : 2025.02 ~ current <br/> 
         </div>
@@ -76,7 +102,7 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applicat
           🔴🟡🟢 
           &nbsp;&nbsp;
           <b>🛠️ Stacks</b>
-          <img width="815" height="1" />  <!-- Full Width -->
+          <img width="1200" height="1" />  <!-- Full Width -->
         </span>
       </div>
     </td>
@@ -309,10 +335,11 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applicat
   </tr>
 </table>
 
-<div align="right">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstarrykss&count_bg=auto&title_bg=%23638FDA&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=starrykss&label=Hits&style=flat-square"
+    alt="Profile Hits"
+  />
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
