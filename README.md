@@ -1,40 +1,59 @@
-<div align="center">
+
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello World!👋🏻&fontSize=80&animation=twinkling&fontAlignY=38&desc=I'm 👨🏻‍💻 SUNNY&descSize=20&descAlignY=51&descAlign=62)
 
+
 ### 💬 About 
-Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applications for **a better world**! <br/><br/> 📍 South Korea 🇰🇷
+<div> 
+  Hey there!👋🏻 <br/>
+  I'm a software engineer who likes to make applications for <b>a better world</b>! :p <br/>
+  📍 South Korea 🇰🇷
+</div>
+
+<br/>
+
+
+>
+> I'm a software engineer interested in building applications that solve real-world problems.
+>
+> My main focus is on full-stack web development, while also working with AI, mobile applications, cloud infrastructure, and backend systems.
+> 
+> - 💻 Full-stack Software Engineer at PLBZ Inc.
+> - 🌐 Building web and mobile applications
+> - 🤖 Interested in AI-powered products and services
+> - ☁️ Experience with AWS, Azure, and Google Cloud
+> - 🚀 Always exploring new technologies and product ideas
+
 <br/><br/>
 
-### 🛠️ Main Stacks
-<div>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/pyqt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
-  <br/>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <br/>
-  <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/react　native-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/flutter-027DFD?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
-  <br/>
-  <img src="https://img.shields.io/badge/sass/scss-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
-  <img src="https://img.shields.io/badge/styled－components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
-  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <br/>
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/mongodb-589636?style=for-the-badge&logo=mongodb&logoColor=white">
-  <br/>
-  <img src="https://img.shields.io/badge/microsoft azure-0078D4?style=for-the-badge&logo=azure&logoColor=white"> 
-  <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazon&logoColor=white">
-  <br/>
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<div align="center">
   
-  
+### 🛠 Core Tech Stacks
+
+## Frontend
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+
+## Backend & Database
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+
+## Mobile
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+
+## AI & Cloud
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 </div>
 
 <br/>
@@ -60,8 +79,8 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applicat
       <details>
         <summary><I>OPEN</I></summary>
         <div markdown="1" align="left"><br>
-          ✅ <b>🏫 B.S. in Computer Science & Information Engineering : 2016.03 ~ 2023.08 <br/> 
-          ✅ <b>🏫 Microsoft AI School Trainee (2nd)</b> (@Microsoft_Korea) : 2023.04 ~ 2023.09 <br/> 
+          ✅ <b>🏫 B.S. in Computer Science & Information Engineering</b> : <code>2016.03 ~ 2023.08</code> <br/> 
+          ✅ <b>🏫 Microsoft AI School Trainee (2nd) (@Microsoft_Korea)</b> : <code>2023.04 ~ 2023.09</code> <br/> 
         </div>
       </details>
     </td>
@@ -87,8 +106,8 @@ Hey there!👋🏻 <br/>I'm a **Front-end Developer** who likes to make applicat
       <details>
         <summary><I>OPEN</I></summary>
         <div markdown="1" align="left"><br>
-          ✅ <b>🏢 Front-end SW Engineer Internship</b> (@Torooc) : 2024.02 ~ 2024.04 <br/> 
-          ✅ <b>🏢 Full-stack SW Engineer</b> (@PLBZ_Inc.) : 2025.02 ~ current <br/> 
+          ✅ <b>🏢 Front-end SW Engineer Internship</b> (@Torooc) : <code>2024.02 ~ 2024.04</code> <br/> 
+          ✅ <b>🏢 Full-stack SW Engineer</b> (@PLBZ_Inc.) : <code>2025.02 ~ current</code> <br/> 
         </div>
       </details>
     </td>
